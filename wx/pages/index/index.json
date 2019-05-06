@@ -1,5 +1,5 @@
 {
   "usingComponents": {
-    "LinkList":"/components/LinkList/LinkList"
+    "pmdggl": "/components/pmdggl/pmdggl"
   }
 }
